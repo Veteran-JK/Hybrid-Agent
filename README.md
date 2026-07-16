@@ -1,2 +1,2 @@
 # Hybrid-Agent
-data collection tading agent. 
+data collection trading agent. 
